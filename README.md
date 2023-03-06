@@ -13,3 +13,7 @@ git pull
 git add  
 git index  
 git ignore  
+
+## Скриншоты рабочего окна:
+
+![alt text](img/img1.png)
