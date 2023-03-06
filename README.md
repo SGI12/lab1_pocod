@@ -6,10 +6,10 @@
 
 Используемые коммманды: 
 
-git clone 
-git init
-git push
-git pull
-git add
-git index
-git ignore
+git clone  
+git init  
+git push  
+git pull  
+git add  
+git index  
+git ignore  
